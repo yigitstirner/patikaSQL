@@ -1,0 +1,2 @@
+# patikaSQL
+SQL Ödevleri
